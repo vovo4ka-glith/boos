@@ -1,0 +1,88 @@
+
+.header-left {
+  text-align: left;
+}
+
+.header-right {
+  text-align: right;
+}
+
+.header-mid {
+  text-align: center;
+}
+
+.header li {
+  display: inline;
+}
+
+.col-left {
+padding-top: 30%;
+}
+
+.body-2 h2 {
+  padding-bottom: 30%;
+  text-align: left;
+}
+
+.body-1-price {
+  padding-top: 20%;
+  padding-left: 5%;
+}
+
+.body-1-mm {
+  padding-top: 60%;
+}
+
+.all {
+  padding-top: 5%;
+}
+
+.container .body-3 {
+  padding-top: 5%;
+}
+
+.body-3 h2 {
+  padding-top: 25%;
+}
+
+.body-3 p {
+  padding-top: 10%;
+}
+
+.body-3 button {
+  margin-top: 10%;
+}
+
+
+.body-3 .ol {
+  padding-left: 80%;
+}
+
+.body-4 {
+  padding-bottom: 10%;
+}
+
+.body-4 .photo1 {
+  margin-bottom: 6%;
+}
+
+.body-4 .photo3 {
+  margin-left: 22%;
+}
+
+.footer li {
+  list-style-type: none;
+}
+
+.footer li:first-child {
+  margin-bottom: 20%;
+}
+
+.footer {
+  background-color: #444240;
+  color: #FFFFFF;
+}
+
+.footer li:first-child {
+  margin-top: 25%;
+}
